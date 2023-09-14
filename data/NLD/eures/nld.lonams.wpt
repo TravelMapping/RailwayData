@@ -40,6 +40,6 @@ RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 +SKIP_Vlu http://www.openstreetmap.org/?lat=52.379676&lon=4.837986
 +SKIP_AmsSlo http://www.openstreetmap.org/?lat=52.388978&lon=4.838448
 +SKIP_Isl http://www.openstreetmap.org/?lat=52.395349&lon=4.850764
-+X345661 http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
++DIV_IC3000 http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
 +X566067 http://www.openstreetmap.org/?lat=52.385600&lon=4.884067
-AmsCen http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
+AmsCen http://www.openstreetmap.org/?lat=52.378901&lon=4.900581
