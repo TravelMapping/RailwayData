@@ -12,7 +12,7 @@ NY HarLn Bre GraCen
 NY RonBra Hic PennSta
 NY S42 TimSq GraCen
 NY 1 CorStWTC 116StColUni  # The 1/9 looks weird to me here
-NY N 14StUniSq TimSq42St   # This is a guess, I don't remember where Paul's apartment was
+NY N 14StUniSq TimSq42St   # This is a guess, definitely the N/R, I just don't remember where Paul's apartment was
 
 GA GoldLn Air PeaCen
 
@@ -35,6 +35,20 @@ DE NENew DE/PA MD/DE
 MD NENew MD/DE DC/MD
 DC NENew DC/MD WasUniSta
 
-## TODO: BritRail
+## TODO: BritRail.  All educated guessing here.
+
+## London to Cardiff 2002
+WLS SWalML CarCen ENG/WLS
+ENG SWalML ENG/WLS LonPad
+
+## London to Stratford 2002
+## TODO
+
+## London to Dover 2002
+ENG HS1Dov LonStPanInt Dov
+
+## Cambridge to London 2006
+## TODO
+
 ## TODO: London Underground
 
