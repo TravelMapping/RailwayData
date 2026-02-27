@@ -43,29 +43,28 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Northumberland Park	Northumberland Line	22-Feb-2026	already in browser
-	Darlaston		Salop Line      	   Feb-2026
-	Willenhall		Salop Line      	   Feb-2026
-	Bedlington      	Northumberland Line	 early 2026	already in browser
+	Bedlington      	Northumberland Line	29-Mar-2026	already in browser
 	Kings Heath     	Camp Hill Line  	spring 2026
 	Moseley Village 	Camp Hill Line  	spring 2026
 	Pineapple Road  	Camp Hill Line  	spring 2026
-	Cambridge South 	WAML/Fen Line/etc 	   Jun-2026
-	Winslow         	East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
+	Cambridge South 	WAML/Fen Line/etc 	28?Jun-2026
 	Okehampton Interchange	Dartmoor Line		   Sep-2026
-	Bute Town        	South Wales Metro	   Oct-2026	platform 2 only
 	Balgray 		Neilston Line   	autumn 2026
+	Darlaston		Salop Line      	       2026
+	Willenhall		Salop Line      	       2026
 	North Filton    	Filton Line		       2026
 	White Rose      	Huddersfield Line	   Jan-2027
+	Charfield		Severnside Line		spring 2027
 	Pill            	Portishead Line 	  late 2027
 	Portishead      	Portishead Line 	  late 2027
 	Ravensthorpe		TPR Upgrade relocation	summer 2028
-	Wixhams         	Thameslink      	paused for rethink due to Universal Park meaning it will need to be bigger
+	Winslow         	East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
+	Wixhams         	Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
 	Old Oak Common  	High Speed 2     	     ??
 	Interchange     	High Speed 2    	     ??
 	Birmingham CurzonStreet	High Speed 2    	     ??
 
-Light Rail
+Metro / Light Rail
 	Magna            	Sheffield Supertram	 early 2026
 	Albert Street   	WM Metro Eastside	 early 2026
 	Millennium Point	WM Metro Eastside	 early 2026
@@ -78,6 +77,7 @@ Light Rail
 	Dudley Castle & Zoo	WM Metro Dudley 	   Aug-2026
 	Dudley Interchange	WM Metro Dudley 	   Aug-2026
 	Flood Street    	WM Metro Dudley 	   Aug-2026
+	Bute Town        	South Wales Metro	   Oct-2026	platform 2 only
 	Gold's Hill     	WM Metro Merry Hill	       2028
 	Cinder Bank     	WM Metro Merry Hill	       2028
 	Pedmore Road    	WM Metro Merry Hill	       2028
