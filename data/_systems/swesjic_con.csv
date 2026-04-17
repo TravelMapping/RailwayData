@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
-swesjic;Dalarna;;;swe.icmor,swe.icfal
-swesjic;Main Line North;;;swe.icduv
-swesjic;Värmland and Norway;;;swe.icosl
-swesjic;East Coast Line / South Main Line;;;swe.iclin
+swesjic;Dal;;;swe.icdalmor,swe.icdalfal
+swesjic;MainLnN;;;swe.icmainlnnduv
+swesjic;Var;;;swe.icvarosl,nor.icvarosl
+swesjic;ECoaLn;;;swe.icecoalnlin
