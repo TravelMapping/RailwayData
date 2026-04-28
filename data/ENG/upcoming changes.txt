@@ -22,8 +22,7 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 
 	Other operators
 		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
-		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2016-05-13 and ends 2026-05-03 (Arriva)
-		London Overground	(LO)	regionally managed (Transport for London)	operating contract begins 2026-05-03 (First)
+		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2026-05-03 (First)
 		Merseyrail      	(ME)	regionally managed (Liverpool City Region)	operating contract began 2003-07-20 and ends 2028-07-20
 		Caledonian Sleeper	(CS)	regional operator (Scottish Government)
 		ScotRail        	(SR)	regional operator (Scottish Government)
@@ -86,10 +85,34 @@ Metro / Light Rail
 OPERATIONS
 
 May 2026 Timetable change
-	TfW	 hourly Liverpool - Llandudno
+	AW	 hourly Liverpool - Llandudno
 		 hourly Wrexham - Crewe
 		 hourly Manchester - Holyhead
 		2hourly Birmingham - Llandudno Junction
-	Lumo	Stirling service starts
-	SWR	Reading line calls at Vauxhall
-	
+	CC	nothing noteworthy
+	CH	nothing noteworthy
+	CS
+	EM	nothing noteworthy
+	GC
+	GN	nothing noteworthy
+	GR	nothing noteworthy
+	GW	nothing noteworthy
+	GX	nothing noteworthy
+	HT	nothing noteworthy
+	HX	nothing noteworthy
+	LD	Stirling service starts
+	LE	nothing noteworthy
+	LN	nothing noteworthy
+	LO
+	ME
+	NR	nothing noteworthy
+	SN	nothing noteworthy
+	SR
+	SW	Reading line calls at Vauxhall
+	SX	nothing noteworthy
+	TL	nothing noteworthy
+	TP	nothing noteworthy
+	VT	more trains, but nothing they make note of
+	XC
+	XR	nothing noteworthy
+	WM	nothing noteworthy
