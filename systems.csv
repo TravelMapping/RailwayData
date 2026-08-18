@@ -308,8 +308,16 @@ deuwut;DEU;Straßenbahn Würzburg;TMred;4;preview
 deuzt;DEU;Straßenbahn Zwickau;TMred;4;preview
 deuddb;DEU;Bergbahnen Dresden;TMyellow;5;preview
 deunwh;DEU;Hängebahn Dortmund;TMyellow;5;preview
+dnkec;DNK;Denmark EuroCityExpress;TMpurple;1;preview
+dnkicl;DNK;Denmark InterCityLyn;TMpurple;1;preview
+dnkic;DNK;Denmark InterCity;TMpurple;1;preview
+dnklt;DNK;Lokaltog;TMdarkgreen;2;preview
+dnknj;DNK;Nordjyske Jernbaner;TMdarkgreen;2;preview
 dnkks;DNK;Københavns S-tog;TMgreen;2;preview
 dnkkm;DNK;Københavns Metro;TMblue;3;preview
+dnkal;DNK;Aarhus Letbane;TMred;4;preview
+dnkhl;DNK;Hovedstadens Letbane;TMred;4;preview
+dnkol;DNK;Odense Letbane;TMred;4;preview
 domopret;DOM;Oficina Para el Reordenamiento del Transporte;TMblue;3;preview
 ecumq;ECU;Metro de Quito;TMblue;3;preview
 ecutc;ECU;Tranvia Cuenca;TMred;4;preview
