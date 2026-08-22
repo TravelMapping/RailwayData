@@ -37,5 +37,5 @@ belic;BEL;IC31;;;;bel.ic31;
 belic;BEL;IC32;;;;bel.ic32;
 belic;BEL;IC33;;;;bel.ic33;
 belic;LUX;IC33;;;;lux.ic33;
-belic;NLD;IC35;;;;nld.ic35;
+belic;NLD;IC35;;Bel;EuroCity;nld.ic35bel;
 belic;BEL;IC35;;;;bel.ic35;
