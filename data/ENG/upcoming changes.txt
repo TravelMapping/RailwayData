@@ -20,17 +20,27 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Northern Trains          (NT)   	already Dft
 		TransPennine Express     (TP)   	already Dft
 
-	GBR Integrated Business Units (and subbrands)
+	GBR Integrated Business Units (and subbrands)	FOI Request	https://www.whatdotheyknow.com/request/great_british_railways_regional/response/3517235/attach/html/3/FOI%2000074259%20Response.pdf.html
 		Great British Railways | Anglia			public-facing transition started, taking over LE and CC
-		Great British Railways | Cross Country		list behind paywall described as '11 + Cross Country'*
-		Great British Railways | Southern		a train with the livery exists
+		Great British Railways | Chiltern
+		Great British Railways | Cross Country	(tbc)	list behind paywall described as '11 + Cross Country' (FOI list has 18+XC)
+		Great British Railways | East Midlands	(tbc)
+		Great British Railways | Gatwick Express
+		Great British Railways | Great Northern
+		Great British Railways | Great Western
+		Great British Railways | Island Line
+		Great British Railways | LNER
+		Great British Railways | London Northwestern
+		Great British Railways | Northern
+		Great British Railways | South Eastern
 		Great British Railways | South Western		a train with the livery exists
+		Great British Railways | Southern		a train with the livery exists
 		Great British Railways | Stansted Express	confirmed as a separate subbrand in Anglia launch Press Release, taking over SX
+		Great British Railways | Thameslink
+		Great British Railways | TransPennine Express
+		Great British Railways | West Coast	(tbc)
 		Great British Railways | West Midlands		MD appointed for that IBU
-		
-
-*From what I can glean: Anglia (Anglia route), Cross Country (pan-region), East Midlands (East Midlands route), Great Northern (North West (save WCML) and North East routes), Great Western (Western route), London North Eastern Railway (East Coast route), Scotland (Scotland region), South Eastern (Kent route), South Western (Wessex route), Thameslink (Sussex route), Transport for Wales (Wales & Borders route), West Coast (WCML from West Coast South and North West routes), West Midlands (Central route (and local services on WCML?))
-
+	
 	Other operators
 		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
 		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2026-05-03 (First)
@@ -43,10 +53,18 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Heathrow Express	(HX)	open access                              	contract began 1998-06-23 and ends 2028-??-??
 		Hull Trains     	(HT)	open access                              	contract began 2000-09-25 and ends 2032-12-??
 		Lumo (East Coast)      	(LD)	open access                               	contract began 2021-09-25 and ends 2031-??-??
-		Lumo (West Coast)      	(LF*)	open access                               	contract began 2026-05-25 and ends 2031-??-??
+		Lumo (West Coast)      	(LF**)	open access                               	contract began 2026-05-25 and ends 2031-??-??
 
-*Island Line has reporting marks of IL from when it was a separate TOC, but for our purposes, we're keeping it part of the South Western Railway system as branding is the same
-*Lumo West Coast has reporting marks of LF, but for our purposes, we're keeping Lumo services in the same system as they are branded the same
+	Proposed devolution
+		Bee Network (Greater Manchester)	no confirmed at all (but it is the Prime Minister's baby), nor really defined (is it just stations and ticketing? is it branding?)
+				https://tfgm.com/the-bee-network#rail
+			Dec 2026	Glossop Line, Marple Line and Victoria - Stalybridge
+			    2027	Airport (stopping service), Buxton and Crewe Lines within Greater Manchester
+			    2028	Victoria - Rochdale (stopping service), Wigan via Atherton, Bolton (the trains continue to Southport) and Golborne
+			    2030	every station in Greater Manchester
+
+*Island Line has reporting marks of IL from when it was a separate TOC, but for our purposes, we're keeping it part of the South Western Railway system as part of same TOC/IBU - maybe split out, depending on branding
+**Lumo West Coast has reporting marks of LF, but for our purposes, we're keeping Lumo services in the same system as they are branded the same
 
 -------------------------------------------
 
@@ -57,40 +75,39 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Okehampton Interchange		Dartmoor Line		   Sep-2026
-	Balgray 					Neilston Line   	autumn 2026
-	Brabazon	   			 	Filton Line		       2026
-	White Rose      			Huddersfield Line	   Jan-2027
-	Charfield					Severnside Line		spring 2027
-	Pill            			Portishead Line 	  late 2027
-	Portishead      			Portishead Line 	  late 2027
-	Ravensthorpe				TPR Upgrade relocation	summer 2028
-	Henbury						Filton Line		     ??
-	Winslow         			East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
-	Wixhams         			Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
-	Old Oak Common  			High Speed 2     	     ??
-	Interchange     			High Speed 2    	     ??
+	Balgray 			Neilston Line   	autumn 2026
+	Brabazon	   	 	Filton Line		       2026
+	White Rose      		Huddersfield Line	   Jan-2027
+	Charfield			Severnside Line		spring 2027
+	Pill            		Portishead Line 	  late 2027
+	Portishead      		Portishead Line 	  late 2027
+	Ravensthorpe			TPR Upgrade relocation	summer 2028
+	Henbury				Filton Line		     ??
+	Winslow         		East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
+	Wixhams         		Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
+	Old Oak Common  		High Speed 2     	     ??
+	Interchange     		High Speed 2    	     ??
 	Birmingham Curzon Street	High Speed 2    	     ??
 
 Metro / Light Rail
-	Great Bridge    			WM Metro Dudley 	   Aug-2026
-	Horseley Road   			WM Metro Dudley 	   Aug-2026
-	Dudley Port     			WM Metro Dudley 	   Aug-2026
-	Sedgley Road    			WM Metro Dudley 	   Aug-2026
-	Birmingham New Road			WM Metro Dudley 	   Aug-2026
-	Tipton Road     			WM Metro Dudley 	   Aug-2026
-	Dudley Castle & Zoo			WM Metro Dudley 	   Aug-2026
-	Dudley Interchange	 	  	WM Metro Dudley 	   Aug-2026
-	Flood Street    	   		WM Metro Dudley 	   Aug-2026
-	Bute Town        	   		South Wales Metro	   Oct-2026	platform 2 only
+	Great Bridge    		WM Metro Dudley 	autumn 2026
+	Horseley Road   		WM Metro Dudley 	autumn 2026
+	Dudley Port     		WM Metro Dudley 	autumn 2026
+	Sedgley Road    		WM Metro Dudley 	autumn 2026
+	Birmingham New Road		WM Metro Dudley 	autumn 2026
+	Tipton Road     		WM Metro Dudley 	autumn 2026
+	Dudley Castle & Zoo		WM Metro Dudley 	autumn 2026
+	Dudley Interchange	  	WM Metro Dudley 	autumn 2026
+	Flood Street    		WM Metro Dudley 	autumn 2026
+	Bute Town        	   	South Wales Metro	   Oct-2026	platform 2 only
 	Gold's Hill     	      	WM Metro Merry Hill	       2028
 	Cinder Bank     	      	WM Metro Merry Hill	       2028
-	Pedmore Road       	   		WM Metro Merry Hill	       2028
+	Pedmore Road       	   	WM Metro Merry Hill	       2028
 	Canal Street    	      	WM Metro Merry Hill	       2028
 	Waterfront Merry Hill   	WM Metro Merry Hill	       2028
 	Merry Hill Shopping Centre	WM Metro Merry Hill	       2028
-	Brierley Hill   	   	   	WM Metro Merry Hill	       2028
-	Curzon Street   	   	   	WM Metro Eastside	     ??
+	Brierley Hill   	   	WM Metro Merry Hill	       2028
+	Curzon Street   	   	WM Metro Eastside	     ??
 	High Street Deritend   	   	WM Metro Eastside	     ??
 
 
@@ -99,30 +116,32 @@ Metro / Light Rail
 OPERATIONS
 
 Dec 2026 Timetable change
-	AW	
+	AW	West Wales Line extended every two hours to Bristol Temple Meads
 	Anglia	
-	CH	
+	CH	through Stratford services restored at very low frequencies	(no TM change?)
 	CS	
 	EM	
 	GC	
-	GN	
+	GN	add 2tph Hertford North - Moorgate	(no TM change)
 	GR	
 	GW	
-	GX	
+	GX	add 2tph Victoria - Gatwick	(no TM change)
 	HT	
 	HX	
 	LD	
-	LO	
+	LN	via Stoke service extends to Birmingham (and Manchester Airport in May?)
+	LO	add 2tph Highbury & Islington - Crystal Palace? peak-only?	(no TM change whatever)
 	ME	
 	NR	
+	SE	doubling of Charing Cross - Bexleyheath - Dartford, Victoria - Orpington, Sittingbourne - Sheerness	(no TM changes)
 	SN	
 	SR	
 	SW	
 	SX	
-	TL	Luton-Rainham -> Kentish Town-Rainham, St Albans-Mitcham-Sutton -> Luton-Mitcham-Sutton
+	TL	Luton-Rainham -> Kentish Town-Rainham	(drafted)
+	TL	St Albans->Mitcham->Sutton -> Luton->Mitcham->Sutton; Sutton->Wimbledon->St Albans -> Sutton->Wimbledon->Luton	(drafted, TLSut becomes TLMit and TLWim added)
 	TP	
 	VT	
 	XC	
 	XR	
-	W Mids	via Stoke service extends to Birmingham (and Manchester Airport in May)
-
+	WM
