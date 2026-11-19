@@ -69,12 +69,12 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 
 INFRASTRUCTURE
 
-South Wales Metro to come into being at some point (other than Bay line redoubling, most works done - mostly waiting on rolling stock). When 4tph to TAM heads? Infrastructure transferred a long time ago. 13-Dec-2026 is move to electric timetable, with rolling stock changes over the summer.
+South Wales Metro to come into being officially at some point, but when?
 
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Bristol Brabazon   	 	Filton Line		autumn 2026	station 2600!
+	Bristol Brabazon   	 	Filton Line		23-Nov-2026	NR station 2600!	added
 	Charfield			Severnside Line		spring 2027
 	White Rose      		Huddersfield Line	       2027
 	Pill            		Portishead Line 	       2028
@@ -88,16 +88,16 @@ National Rail
 	Birmingham Curzon Street	High Speed 2    	     ??
 
 Metro / Light Rail
-	Great Bridge    		WM Metro Dudley 	01-Nov-2026
-	Horseley Road   		WM Metro Dudley 	01-Nov-2026
-	Dudley Port     		WM Metro Dudley 	01-Nov-2026
-	Sedgley Road    		WM Metro Dudley 	01-Nov-2026
-	Birmingham New Road		WM Metro Dudley 	01-Nov-2026
-	Tipton Road     		WM Metro Dudley 	01-Nov-2026
-	Dudley Castle & Zoo		WM Metro Dudley 	01-Nov-2026
-	Dudley Interchange	  	WM Metro Dudley 	01-Nov-2026
-	Flood Street    		WM Metro Dudley 	01-Nov-2026
-	Bute Town        	   	South Wales Metro	   Oct-2026	platform 2 only
+	Bute Town        	   	South Wales Metro	   Dec-2026	platform 2 only, 1 train per week, in one direction!
+	Great Bridge    		WM Metro Dudley 	       2027
+	Horseley Road   		WM Metro Dudley 	       2027
+	Dudley Port     		WM Metro Dudley 	       2027
+	Sedgley Road    		WM Metro Dudley 	       2027
+	Birmingham New Road		WM Metro Dudley 	       2027
+	Tipton Road     		WM Metro Dudley 	       2027
+	Dudley Castle & Zoo		WM Metro Dudley 	       2027
+	Dudley Interchange	  	WM Metro Dudley 	       2027
+	Flood Street    		WM Metro Dudley 	       2027
 	Gold's Hill     	      	WM Metro Merry Hill	       2028
 	Cinder Bank     	      	WM Metro Merry Hill	       2028
 	Pedmore Road       	   	WM Metro Merry Hill	       2028
@@ -127,12 +127,12 @@ Dec 2026 Timetable change
 	HT	
 	HX	
 	LD	
-	LN	via Stoke service extends to Birmingham (and Manchester Airport in May?)
+	LN	via Stoke service extends to Birmingham
 	LO	add 2tph Highbury & Islington - Crystal Palace? peak-only?	(no TM change whatever)
 	ME	
 	NR	
-	SE	doubling of Charing Cross - Bexleyheath - Dartford, Victoria - Orpington, Sittingbourne - Sheerness	(no TM changes)
-	SN	
+	SE	doubling of Charing Cross - Bexleyheath - Dartford, Victoria - Orpington, Sittingbourne - Sheerness	(no TM changes?)
+	SN	To provide six trains an hour between Wandsworth Common and London Victoria throughout the day, trains between West Croydon and London Victoria will now call at Wandsworth Common. While the overall number of trains during the morning and evening peak will remain the same with the new calls on the West Croydon service, the Sutton to London Victoria via Norbury trains will no longer call at Wandsworth Common during the peaks.
 	SR	
 	SW	
 	SX	
@@ -140,6 +140,37 @@ Dec 2026 Timetable change
 	TL	St Albans->Mitcham->Sutton -> Luton->Mitcham->Sutton; Sutton->Wimbledon->St Albans -> Sutton->Wimbledon->Luton	(drafted, TLSut becomes TLMit and TLWim added)
 	TP	
 	VT	
+	XC	more glasgow services (enough to justify extension?) from Spring
+	XR	
+	WM
+
+May 2027 Timetable change
+	AW	
+	Anglia	
+	CH	
+	CS	
+	EM	
+	GC	
+	GN	
+	GR	
+	GW	
+	GX	
+	HT	
+	HX	
+	LD	
+	LN	via Stoke service extends to Manchester Airport. Salop service skips new stops, with Wolves-Walsall service instead
+	LO	
+	ME	
+	NR	
+	SE	
+	SN	
+	SR	
+	SW	
+	SX	
+	TL	
+	TL	
+	TP	
+	VT	move Nuneaton call from E to D
 	XC	
 	XR	
 	WM

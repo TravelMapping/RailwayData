@@ -1,8 +1,3 @@
-Lim_1 http://www.openstreetmap.org/?lat=38.710240&lon=-9.132020
-Se http://www.openstreetmap.org/?lat=38.709906&lon=-9.134016
-+SKIP_IgrSanMarMad http://www.openstreetmap.org/?lat=38.710063&lon=-9.135277
-RuaConRuaFan http://www.openstreetmap.org/?lat=38.709897&lon=-9.135963
-PraFig http://www.openstreetmap.org/?lat=38.713238&lon=-9.137417
 MarMon http://www.openstreetmap.org/?lat=38.716409&lon=-9.135977
 Soc http://www.openstreetmap.org/?lat=38.716754&lon=-9.135110
 LarTer http://www.openstreetmap.org/?lat=38.716109&lon=-9.133008
@@ -11,4 +6,12 @@ SaoTome http://www.openstreetmap.org/?lat=38.713489&lon=-9.130626
 +DIV_28E http://www.openstreetmap.org/?lat=38.713037&lon=-9.130604
 LarPorSol http://www.openstreetmap.org/?lat=38.712325&lon=-9.130497
 MirSanLuz http://www.openstreetmap.org/?lat=38.711438&lon=-9.130626
-Lim_2 http://www.openstreetmap.org/?lat=38.710240&lon=-9.132020
+Lim +Lim_1 +Lim_2 http://www.openstreetmap.org/?lat=38.710240&lon=-9.132020
+Se http://www.openstreetmap.org/?lat=38.709906&lon=-9.134016
+IgrSanMarMad http://www.openstreetmap.org/?lat=38.710063&lon=-9.135277
+RuaConRuaFan http://www.openstreetmap.org/?lat=38.709897&lon=-9.135963
+RuaCon http://www.openstreetmap.org/?lat=38.709520&lon=-9.137557
+LarAcaNacBelArt http://www.openstreetmap.org/?lat=38.708003&lon=-9.140153
+RuaVitCor http://www.openstreetmap.org/?lat=38.707961&lon=-9.141971
+Chi http://www.openstreetmap.org/?lat=38.710234&lon=-9.142229
+PraLuisCar http://www.openstreetmap.org/?lat=38.710663&lon=-9.143235
