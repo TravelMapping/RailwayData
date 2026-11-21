@@ -74,7 +74,6 @@ South Wales Metro to come into being officially at some point, but when?
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Bristol Brabazon   	 	Filton Line		23-Nov-2026	NR station 2600!	added
 	Charfield			Severnside Line		spring 2027
 	White Rose      		Huddersfield Line	       2027
 	Pill            		Portishead Line 	       2028
@@ -132,7 +131,7 @@ Dec 2026 Timetable change
 	ME	
 	NR	
 	SE	doubling of Charing Cross - Bexleyheath - Dartford, Victoria - Orpington, Sittingbourne - Sheerness	(no TM changes?)
-	SN	To provide six trains an hour between Wandsworth Common and London Victoria throughout the day, trains between West Croydon and London Victoria will now call at Wandsworth Common. While the overall number of trains during the morning and evening peak will remain the same with the new calls on the West Croydon service, the Sutton to London Victoria via Norbury trains will no longer call at Wandsworth Common during the peaks.
+	SN	
 	SR	
 	SW	
 	SX	
